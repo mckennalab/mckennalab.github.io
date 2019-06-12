@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dennis C Friedrich on McKennaLab</title>
+    <link>https://mckennalab.org/authors/dennis-c-friedrich/</link>
+    <description>Recent content in Dennis C Friedrich on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/dennis-c-friedrich/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whole-exome sequencing and clinical interpretation of formalin-fixed, paraffin-embedded tumor samples to guide precision cancer medicine</title>
+      <link>https://mckennalab.org/publication/van-2014-whole/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2014-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-exome sequencing and clinical interpretation of FFPE tumor samples to guide precision cancer medicine</title>
+      <link>https://mckennalab.org/publication/allen-2013-whole/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/allen-2013-whole/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

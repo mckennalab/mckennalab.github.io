@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James A Gagnon on McKennaLab</title>
+    <link>https://mckennalab.org/authors/james-a-gagnon/</link>
+    <description>Recent content in James A Gagnon on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/james-a-gagnon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain</title>
+      <link>https://mckennalab.org/publication/raj-2018-simultaneous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2018-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain by scGESTALT</title>
+      <link>https://mckennalab.org/publication/raj-2017-simultaneous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2017-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-whole/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cell Lineage Tracing: Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-cell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-cell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

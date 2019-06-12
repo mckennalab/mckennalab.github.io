@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gad Getz on McKennaLab</title>
+    <link>https://mckennalab.org/authors/gad-getz/</link>
+    <description>Recent content in Gad Getz on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/gad-getz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Methods and apparatus for analyzing and quantifying dna alterations in cancer</title>
+      <link>https://mckennalab.org/publication/carter-2015-methods/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/carter-2015-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic sequencing of meningiomas identifies oncogenic SMO and AKT1 mutations</title>
+      <link>https://mckennalab.org/publication/brastianos-2013-genomic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brastianos-2013-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Oncogenic SMO and AKT1 Mutations in Meningiomas</title>
+      <link>https://mckennalab.org/publication/horowitz-2013-novel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/horowitz-2013-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive biallelic loss of TP53 is associated with progression of pleuropulmonary blastoma initiated by germline loss and somatic mutation of DICER1.</title>
+      <link>https://mckennalab.org/publication/pugh-2013-progressive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/pugh-2013-progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic characterization of meningiomas.</title>
+      <link>https://mckennalab.org/publication/brastianos-2012-genomic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brastianos-2012-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContEst: estimating cross-contamination of human samples in next-generation sequencing data</title>
+      <link>https://mckennalab.org/publication/cibulskis-2011-contest/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cibulskis-2011-contest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and controlling for physical contamination in next-generation sequencing cancer studies</title>
+      <link>https://mckennalab.org/publication/cibulskis-2011-detecting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cibulskis-2011-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay Shendure on McKennaLab</title>
+    <link>https://mckennalab.org/authors/jay-shendure/</link>
+    <description>Recent content in Jay Shendure on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/jay-shendure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FlashFry: a fast and flexible tool for large-scale CRISPR target design</title>
+      <link>https://mckennalab.org/publication/mckenna-2018-flashfry/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2018-flashfry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massively parallel profiling and predictive modeling of the outcomes of CRISPR/Cas9-mediated double-strand break repair</title>
+      <link>https://mckennalab.org/publication/chen-2018-massively/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chen-2018-massively/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain</title>
+      <link>https://mckennalab.org/publication/raj-2018-simultaneous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2018-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRISPR/Cas9-mediated scanning for regulatory elements required for HPRT1 expression via thousands of large, programmed genomic deletions</title>
+      <link>https://mckennalab.org/publication/gasperini-2017-crispr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/gasperini-2017-crispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain by scGESTALT</title>
+      <link>https://mckennalab.org/publication/raj-2017-simultaneous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2017-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paired CRISPR/Cas9 guide-RNAs enable high-throughput deletion scanning (ScanDel) of a Mendelian disease locus for functionally critical non-coding elements</title>
+      <link>https://mckennalab.org/publication/gasperini-2016-paired/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/gasperini-2016-paired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-whole/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cell Lineage Tracing: Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-cell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-cell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory V Kryukov on McKennaLab</title>
+    <link>https://mckennalab.org/authors/gregory-v-kryukov/</link>
+    <description>Recent content in Gregory V Kryukov on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/gregory-v-kryukov/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The genetic landscape of clinical resistance to RAF inhibition in metastatic melanoma</title>
+      <link>https://mckennalab.org/publication/van-2014-genetic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2014-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutational heterogeneity in cancer and the search for new cancer-associated genes</title>
+      <link>https://mckennalab.org/publication/lawrence-2013-mutational/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/lawrence-2013-mutational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mutational landscape of head and neck squamous cell carcinoma</title>
+      <link>https://mckennalab.org/publication/stransky-2011-mutational/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/stransky-2011-mutational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

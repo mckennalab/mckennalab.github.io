@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Carter on McKennaLab</title>
+    <link>https://mckennalab.org/authors/scott-carter/</link>
+    <description>Recent content in Scott Carter on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/scott-carter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A comparative assessment of clinical whole exome and transcriptome profiling across sequencing centers: implications for precision cancer medicine</title>
+      <link>https://mckennalab.org/publication/van-2016-comparative/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2016-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution and impact of subclonal mutations in chronic lymphocytic leukemia</title>
+      <link>https://mckennalab.org/publication/landau-2012-evolution/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/landau-2012-evolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

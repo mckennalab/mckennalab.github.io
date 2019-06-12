@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on McKennaLab</title>
+    <link>https://mckennalab.org/publication_types/1/</link>
+    <description>Recent content in 1 on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evolutionary adaptations in developmental pathways underlie regenerative scar-free wound repair in African Spiny Mice.</title>
+      <link>https://mckennalab.org/publication/brewer-2016-evolutionary/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brewer-2016-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTEGRATIVE AND COMPARATIVE GENOMIC ANALYSIS OF EAST-ASIAN LUNG SQUAMOUS CELL CARCINOMAS</title>
+      <link>https://mckennalab.org/publication/kim-2013-integrative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/kim-2013-integrative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEDULLOBLASTOMA EXOME SEQUENCING UNCOVERS SUBTYPE-SPECIFIC SOMATIC MUTATIONS WITHIN A BROAD LANDSCAPE OF GENETIC HETEROGENEITY</title>
+      <link>https://mckennalab.org/publication/cho-2012-medulloblastoma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cho-2012-medulloblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape of Somatic Alterations in Cancer and Their Relationship to the Environment</title>
+      <link>https://mckennalab.org/publication/cibulskis-2011-landscape/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cibulskis-2011-landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information theoretic framework for genomic data analysis</title>
+      <link>https://mckennalab.org/publication/mckenna-2008-information/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2008-information/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

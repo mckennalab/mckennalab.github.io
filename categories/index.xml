@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on McKenna lab</title>
-    <link>https://mckennalab.github.io/categories/</link>
-    <description>Recent content in Categories on McKenna lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on McKennaLab</title>
+    <link>https://mckennalab.org/categories/</link>
+    <description>Recent content in Categories on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	<atom:link href="https://mckennalab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://mckennalab.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

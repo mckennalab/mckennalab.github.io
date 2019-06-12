@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mara Rosenberg on McKennaLab</title>
+    <link>https://mckennalab.org/authors/mara-rosenberg/</link>
+    <description>Recent content in Mara Rosenberg on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/mara-rosenberg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A comparative assessment of clinical whole exome and transcriptome profiling across sequencing centers: implications for precision cancer medicine</title>
+      <link>https://mckennalab.org/publication/van-2016-comparative/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2016-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAP kinase pathway alterations in BRAF-mutant melanoma patients with acquired resistance to combined RAF/MEK inhibition</title>
+      <link>https://mckennalab.org/publication/wagle-2014-map/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/wagle-2014-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-exome sequencing identifies a recurrent NAB2-STAT6 fusion in solitary fibrous tumors</title>
+      <link>https://mckennalab.org/publication/chmielecki-2013-whole/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chmielecki-2013-whole/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

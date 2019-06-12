@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Low on McKennaLab</title>
+    <link>https://mckennalab.org/authors/emma-low/</link>
+    <description>Recent content in Emma Low on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/emma-low/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emtricitabine may be associated with greater changes in cholesterol than lamivudine: P19</title>
+      <link>https://mckennalab.org/publication/mckenna-2006-emtricitabine/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2006-emtricitabine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How well do we target hyperlipidaemia? A study to investigate total cholesterol results and statin use in a clinical cohort: P66</title>
+      <link>https://mckennalab.org/publication/jones-2006-well/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/jones-2006-well/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

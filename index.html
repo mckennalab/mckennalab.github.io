@@ -1,152 +1,1493 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-         
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>McKenna lab</title>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="McKenna Lab">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Department of Molecular and Systems Biology">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://mckennalab.org/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
         
-        <style>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
 
-    html body {
-        font-family: 'Raleway', sans-serif;
-        background-color: white;
-    }
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
-    :root {
-        --accent: green;
-        --border-width:  5px ;
-    }
+    
 
-</style>
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.747d92dc45be93ba6055a623fe5bcc0a.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.b6c033452815390d9caf0b92cc1f2282.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="McKennaLab">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="McKennaLab">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://mckennalab.org/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@aaron_mckenna">
+  <meta property="twitter:creator" content="@aaron_mckenna">
+  
+  <meta property="og:site_name" content="McKennaLab">
+  <meta property="og:url" content="https://mckennalab.org/">
+  <meta property="og:title" content="McKennaLab">
+  <meta property="og:description" content="Department of Molecular and Systems Biology"><meta property="og:image" content="https://mckennalab.org/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2018-01-01T00:00:00&#43;00:00">
+  
+
+  
 
 
-<link rel="stylesheet" href="https://mckennalab.github.io/css/main.css">
+  
 
 
 
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <title>McKennaLab</title>
+
+</head>
 
 
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">McKennaLab</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured" data-target="#featured">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
- 
+  
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<span class="js-widget-page d-none"></span>
 
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script> 
 
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="hero" class="home-section wg-hero   "  >
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-md-6 order-md-1 text-center text-md-left">
+
+
+    <h1 class="hero-title" itemprop="headline">
+      
+    </h1>
+
+    
+    <div class="hero-lead"><p>
+<h5>
+Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
+<br>
+</p>
+</div>
+    
+
+    
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+    <p class="cta-btns">
+      <a href="http://github.com/mckennalab" target="_blank" rel="noopener" class="btn btn-primary btn-lg"><i class="fas fa-download" aria-hidden="true"></i> Get Started</a>
+
+      
+      
+        
+        
+        
+        
+          
+        
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener" class="hero-cta-alt pl-4">View DocumentationView <i class="fas fa-angle-right"></i></a>
+      
+    </p>
+    
+
+    
+    
+
+  
+  
+  </div>
+  <div class="col-6 mx-auto col-md-6 order-md-2 hero-media">
+    <img src="/img/tree.jpg" alt="">
+  </div>
+</div>
+
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/authors/admin/avatar_huc56848c2d7b4b150b45790aee8cafc5b_253661_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">McKenna Lab</h2>
+        <h3 itemprop="jobTitle">Department of Molecular and Systems Biology</h3>
+
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://geiselmed.dartmouth.edu/" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">Dartmouth College</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <link itemprop="url" href="">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://twitter.com/aaron_mckenna" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=ALmdx44AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://github.com/mckennalab" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8" itemprop="description">
+
+    
+    <h1>About the lab</h1>
+
+    <p>Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
+<br>
+<br>
+We&rsquo;re looking for interested post-docs or research scientists to come join us at the Geisel School of Medicine at Dartmouth. We accept grad student rotations from the <a href="https://graduate.dartmouth.edu/mcb/">Molecular and Cellular Biology Program</a> and the <a href="https://geiselmed.dartmouth.edu/qbs/">Graduate Program in Quantitative Biomedical Sciences</a>. Students from other programs are welcome to rotate according to the rules of their program.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Cell fate and lineage</li>
+          
+          <li>Computational Biology</li>
+          
+          <li>Systems biology</li>
+          
+        </ul>
+      </div>
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    <p><div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="https://mckennalab.org/publication/" target="_blank">filtering publications</a>.
+  </div>
+</div>
+</p>
+
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/mckenna-2018-flashfry/" itemprop="url">FlashFry: a fast and flexible tool for large-scale CRISPR target design</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aaron-mckenna/">Aaron McKenna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jay-shendure/">Jay Shendure</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/mckenna-2018-flashfry/mckenna-2018-flashfry.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/chen-2018-massively/" itemprop="url">Massively parallel profiling and predictive modeling of the outcomes of CRISPR/Cas9-mediated double-strand break repair</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/wei-chen/">Wei Chen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aaron-mckenna/">Aaron McKenna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jacob-schreiber/">Jacob Schreiber</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yi-yin/">Yi Yin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/vikram-agarwal/">Vikram Agarwal</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/william-stafford-noble/">William Stafford Noble</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jay-shendure/">Jay Shendure</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chen-2018-massively/chen-2018-massively.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/raj-2018-simultaneous/" itemprop="url">Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bushra-raj/">Bushra Raj</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/daniel-e-wagner/">Daniel E Wagner</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aaron-mckenna/">Aaron McKenna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shristi-pandey/">Shristi Pandey</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/allon-m-klein/">Allon M Klein</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jay-shendure/">Jay Shendure</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/james-a-gagnon/">James A Gagnon</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alexander-f-schier/">Alexander F Schier</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/raj-2018-simultaneous/raj-2018-simultaneous.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/koksal-2018-synthesizing/" itemprop="url">Synthesizing Signaling Pathways from Temporal Phosphoproteomic Data</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">Ali Sinan Köksal</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kirsten-beck/">Kirsten Beck</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dylan-r-cronin/">Dylan R Cronin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aaron-mckenna/">Aaron McKenna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nathan-d-camp/">Nathan D Camp</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/saurabh-srivastava/">Saurabh Srivastava</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/matthew-e-macgilvray/">Matthew E MacGilvray</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Rastislav Bodı́k</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alejandro-wolf-yadlin/">Alejandro Wolf-Yadlin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ernest-fraenkel/">Ernest Fraenkel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/others/">others</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/koksal-2018-synthesizing/koksal-2018-synthesizing.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/gasperini-2017-crispr/" itemprop="url">CRISPR/Cas9-mediated scanning for regulatory elements required for HPRT1 expression via thousands of large, programmed genomic deletions</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/molly-gasperini/">Molly Gasperini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gregory-m-findlay/">Gregory M Findlay</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/aaron-mckenna/">Aaron McKenna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jennifer-h-milbank/">Jennifer H Milbank</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/choli-lee/">Choli Lee</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/melissa-d-zhang/">Melissa D Zhang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/darren-a-cusanovich/">Darren A Cusanovich</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jay-shendure/">Jay Shendure</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/gasperini-2017-crispr/gasperini-2017-crispr.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email"><a href="mailto:info@mckennalab.org">info@mckennalab.org</a></span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <span id="person-telephone" itemprop="telephone"><a href="tel:603-650-1866%20%28office%29">603-650-1866 (office)</a></span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">Dartmouth College / Norris Cotton Cancer Center<br>1 Medical Center Drive<br>Williamson Building Level 6, bay 68<br> Lebanon NH, 03756</span>
+      </li>
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href="https://twitter.com/aaron_mckenna" target="_blank" rel="noopener">DM Me</a>
+      </li>
+      
+
+    </ul>
+
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="43.674732">
+      <input id="map-lng" value="-72.273655">
+      <input id="map-dir" value="Dartmouth College / Norris Cotton Cancer Center&lt;br&gt;1 Medical Center Drive&lt;br&gt;Williamson Building Level 6, bay 68&lt;br&gt; Lebanon NH, 03756">
+      <input id="map-zoom" value="15">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
     <script>hljs.initHighlightingOnLoad();</script>
-
-
-
-
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-
-<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.46" />
-        
-        <link href="https://mckennalab.github.io/index.xml" rel="alternate" type="application/rss+xml" title="McKenna lab" />
-        <link href="https://mckennalab.github.io/index.xml" rel="feed" type="application/rss+xml" title="McKenna lab" />
-        
-
-        
-    </head>
+    
 
     
     
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
     </script>
     
 
-    <body>
-         
-        <nav class="navbar navbar-default navbar-fixed-top">
+    
+    
 
-            <div class="container">
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
 
-                <div class="navbar-header">
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
-                    <a class="navbar-brand visible-xs" href="#">McKenna lab</a>
+    
+    
 
-                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.174c04eddb854712a9c7aaae9021446f.js"></script>
 
-                </div>
-
-                <div class="collapse navbar-collapse">
-
-                    
-                        <ul class="nav navbar-nav">
-                            
-                                <li><a href="/">Home</a></li>
-                            
-                                <li><a href="/post/">Posts</a></li>
-                            
-                                <li><a href="/project/">Projects</a></li>
-                            
-                        </ul>
-                    
-
-                    
-                        <ul class="nav navbar-nav navbar-right">
-                            
-                                <li class="navbar-icon"><a href="mailto:me@example.com"><i class="fa fa-envelope-o"></i></a></li>
-                            
-                                <li class="navbar-icon"><a href="https://github.com/mckennalab/"><i class="fa fa-github"></i></a></li>
-                            
-                                <li class="navbar-icon"><a href="https://twitter.com/aaron_mckenna/"><i class="fa fa-twitter"></i></a></li>
-                            
-                        </ul>
-                    
-
-                </div>
-
-            </div>
-
-        </nav>
+    
 
 
-<main>
 
-    <div class="intro">
 
-        
 
-        <h1>McKenna lab</h1>
 
-        <h2>Home of the future McKenna lab website</h2>
+  
+  <div class="container">
+    <footer class="site-footer">
+  
 
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
     </div>
+  </div>
+</div>
 
-</main>
-
-        <footer>
-
-            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
-
-        </footer>
-       
-    </body>
-
+</body>
 </html>
-

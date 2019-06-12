@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Auclair on McKennaLab</title>
+    <link>https://mckennalab.org/authors/daniel-auclair/</link>
+    <description>Recent content in Daniel Auclair on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/daniel-auclair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Widespread genetic heterogeneity in multiple myeloma: implications for targeted therapy</title>
+      <link>https://mckennalab.org/publication/lohr-2014-widespread/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/lohr-2014-widespread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated germline analysis platform for comprehensive clinical cancer genomics.</title>
+      <link>https://mckennalab.org/publication/van-2013-integrated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2013-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic landscape of high-risk neuroblastoma</title>
+      <link>https://mckennalab.org/publication/pugh-2013-genetic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/pugh-2013-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-exome sequencing identifies a recurrent NAB2-STAT6 fusion in solitary fibrous tumors</title>
+      <link>https://mckennalab.org/publication/chmielecki-2013-whole/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chmielecki-2013-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A glimpse into the somatic mutation landscape of melanoma through exome sequencing of 121 tumor-normal pairs</title>
+      <link>https://mckennalab.org/publication/hodis-2012-glimpse/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/hodis-2012-glimpse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEDULLOBLASTOMA EXOME SEQUENCING UNCOVERS SUBTYPE-SPECIFIC SOMATIC MUTATIONS WITHIN A BROAD LANDSCAPE OF GENETIC HETEROGENEITY</title>
+      <link>https://mckennalab.org/publication/cho-2012-medulloblastoma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cho-2012-medulloblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medulloblastoma exome sequencing uncovers subtype-specific somatic mutations</title>
+      <link>https://mckennalab.org/publication/pugh-2012-medulloblastoma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/pugh-2012-medulloblastoma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roel GW Verhaak on McKennaLab</title>
+    <link>https://mckennalab.org/authors/roel-gw-verhaak/</link>
+    <description>Recent content in Roel GW Verhaak on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/roel-gw-verhaak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://mckennalab.org/publication/brennan-2014-somatic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brennan-2014-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://mckennalab.org/publication/brennan-2013-somatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brennan-2013-somatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

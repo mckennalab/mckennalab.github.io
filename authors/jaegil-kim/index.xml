@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaegil Kim on McKennaLab</title>
+    <link>https://mckennalab.org/authors/jaegil-kim/</link>
+    <description>Recent content in Jaegil Kim on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/jaegil-kim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exome sequencing of pleuropulmonary blastoma reveals frequent biallelic loss of TP53 and two hits in DICER1 resulting in retention of 5p-derived miRNA hairpin loop sequences</title>
+      <link>https://mckennalab.org/publication/pugh-2014-exome/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/pugh-2014-exome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative and comparative genomic analysis of lung squamous cell carcinomas in East Asian patients</title>
+      <link>https://mckennalab.org/publication/kim-2014-integrative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/kim-2014-integrative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTEGRATIVE AND COMPARATIVE GENOMIC ANALYSIS OF EAST-ASIAN LUNG SQUAMOUS CELL CARCINOMAS</title>
+      <link>https://mckennalab.org/publication/kim-2013-integrative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/kim-2013-integrative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

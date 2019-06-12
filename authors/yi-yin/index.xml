@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Yin on McKennaLab</title>
+    <link>https://mckennalab.org/authors/yi-yin/</link>
+    <description>Recent content in Yi Yin on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/yi-yin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Massively parallel profiling and predictive modeling of the outcomes of CRISPR/Cas9-mediated double-strand break repair</title>
+      <link>https://mckennalab.org/publication/chen-2018-massively/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chen-2018-massively/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

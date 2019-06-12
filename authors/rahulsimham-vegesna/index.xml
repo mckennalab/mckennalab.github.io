@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahulsimham Vegesna on McKennaLab</title>
+    <link>https://mckennalab.org/authors/rahulsimham-vegesna/</link>
+    <description>Recent content in Rahulsimham Vegesna on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/rahulsimham-vegesna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A survey of intragenic breakpoints in glioblastoma identifies a distinct subset associated with poor survival</title>
+      <link>https://mckennalab.org/publication/zheng-2013-survey/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/zheng-2013-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OM-77. A SURVEY OF INTRAGENIC BREAKPOINTS IN GBM IDENTIFIES A DISTINCT SUBSET ASSOCIATED WITH POOR SURVIVAL</title>
+      <link>https://mckennalab.org/publication/zheng-2013-om/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/zheng-2013-om/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron McKenna on McKennaLab</title>
+    <link>https://mckennalab.org/authors/aaron-mckenna/</link>
+    <description>Recent content in Aaron McKenna on McKennaLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mckennalab.org/authors/aaron-mckenna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FlashFry: a fast and flexible tool for large-scale CRISPR target design</title>
+      <link>https://mckennalab.org/publication/mckenna-2018-flashfry/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2018-flashfry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massively parallel profiling and predictive modeling of the outcomes of CRISPR/Cas9-mediated double-strand break repair</title>
+      <link>https://mckennalab.org/publication/chen-2018-massively/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chen-2018-massively/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain</title>
+      <link>https://mckennalab.org/publication/raj-2018-simultaneous/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2018-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Signaling Pathways from Temporal Phosphoproteomic Data</title>
+      <link>https://mckennalab.org/publication/koksal-2018-synthesizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/koksal-2018-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRISPR/Cas9-mediated scanning for regulatory elements required for HPRT1 expression via thousands of large, programmed genomic deletions</title>
+      <link>https://mckennalab.org/publication/gasperini-2017-crispr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/gasperini-2017-crispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain by scGESTALT</title>
+      <link>https://mckennalab.org/publication/raj-2017-simultaneous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/raj-2017-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative assessment of clinical whole exome and transcriptome profiling across sequencing centers: implications for precision cancer medicine</title>
+      <link>https://mckennalab.org/publication/van-2016-comparative/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2016-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paired CRISPR/Cas9 guide-RNAs enable high-throughput deletion scanning (ScanDel) of a Mendelian disease locus for functionally critical non-coding elements</title>
+      <link>https://mckennalab.org/publication/gasperini-2016-paired/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/gasperini-2016-paired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-whole/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cell Lineage Tracing: Whole-organism lineage tracing by combinatorial and cumulative genome editing</title>
+      <link>https://mckennalab.org/publication/mckenna-2016-cell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2016-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatus for analyzing and quantifying dna alterations in cancer</title>
+      <link>https://mckennalab.org/publication/carter-2015-methods/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/carter-2015-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paired exome analysis of Barrett&#39;s esophagus and adenocarcinoma</title>
+      <link>https://mckennalab.org/publication/stachler-2015-paired/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/stachler-2015-paired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and clonal dissection of murine small cell lung carcinoma progression by genome sequencing</title>
+      <link>https://mckennalab.org/publication/mcfadden-2014-genetic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mcfadden-2014-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://mckennalab.org/publication/brennan-2014-somatic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brennan-2014-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of intragenic breakpoints in glioblastoma identifies a distinct subset associated with poor survival</title>
+      <link>https://mckennalab.org/publication/zheng-2013-survey/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/zheng-2013-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated germline analysis platform for comprehensive clinical cancer genomics.</title>
+      <link>https://mckennalab.org/publication/van-2013-integrated/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/van-2013-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of clonal evolution in cancer using whole exome sequence data reveals that subclonal driver mutations predict poor prognosis in chronic lymphocytic leukemia.</title>
+      <link>https://mckennalab.org/publication/carter-2013-analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/carter-2013-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and impact of subclonal mutations in chronic lymphocytic leukemia</title>
+      <link>https://mckennalab.org/publication/landau-2013-evolution/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/landau-2013-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic analysis of diffuse pediatric low-grade gliomas identifies recurrent oncogenic truncating rearrangements in the transcription factor MYBL1</title>
+      <link>https://mckennalab.org/publication/ramkissoon-2013-genomic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/ramkissoon-2013-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic sequencing of meningiomas identifies oncogenic SMO and AKT1 mutations</title>
+      <link>https://mckennalab.org/publication/brastianos-2013-genomic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brastianos-2013-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative eQTL-based analyses reveal the biology of breast cancer risk loci</title>
+      <link>https://mckennalab.org/publication/li-2013-integrative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/li-2013-integrative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Oncogenic SMO and AKT1 Mutations in Meningiomas</title>
+      <link>https://mckennalab.org/publication/horowitz-2013-novel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/horowitz-2013-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OM-77. A SURVEY OF INTRAGENIC BREAKPOINTS IN GBM IDENTIFIES A DISTINCT SUBSET ASSOCIATED WITH POOR SURVIVAL</title>
+      <link>https://mckennalab.org/publication/zheng-2013-om/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/zheng-2013-om/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive biallelic loss of TP53 is associated with progression of pleuropulmonary blastoma initiated by germline loss and somatic mutation of DICER1.</title>
+      <link>https://mckennalab.org/publication/pugh-2013-progressive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/pugh-2013-progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://mckennalab.org/publication/brennan-2013-somatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brennan-2013-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-exome sequencing identifies a recurrent NAB2-STAT6 fusion in solitary fibrous tumors</title>
+      <link>https://mckennalab.org/publication/chmielecki-2013-whole/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/chmielecki-2013-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Absolute quantification of somatic DNA alterations in human cancer</title>
+      <link>https://mckennalab.org/publication/carter-2012-absolute/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/carter-2012-absolute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic characterization of meningiomas.</title>
+      <link>https://mckennalab.org/publication/brastianos-2012-genomic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/brastianos-2012-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEDULLOBLASTOMA EXOME SEQUENCING UNCOVERS SUBTYPE-SPECIFIC SOMATIC MUTATIONS WITHIN A BROAD LANDSCAPE OF GENETIC HETEROGENEITY</title>
+      <link>https://mckennalab.org/publication/cho-2012-medulloblastoma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cho-2012-medulloblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution and impact of subclonal mutations in chronic lymphocytic leukemia</title>
+      <link>https://mckennalab.org/publication/landau-2012-evolution/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/landau-2012-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContEst: estimating cross-contamination of human samples in next-generation sequencing data</title>
+      <link>https://mckennalab.org/publication/cibulskis-2011-contest/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cibulskis-2011-contest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and controlling for physical contamination in next-generation sequencing cancer studies</title>
+      <link>https://mckennalab.org/publication/cibulskis-2011-detecting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/cibulskis-2011-detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mutational landscape of head and neck squamous cell carcinoma</title>
+      <link>https://mckennalab.org/publication/stransky-2011-mutational/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/stransky-2011-mutational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data</title>
+      <link>https://mckennalab.org/publication/mckenna-2010-genome/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2010-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information theoretic framework for genomic data analysis</title>
+      <link>https://mckennalab.org/publication/mckenna-2008-information/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckennalab.org/publication/mckenna-2008-information/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
